@@ -1,0 +1,13 @@
+body{
+    background-color:darkslategrey;
+}
+.container-fluid{
+    background-color: darkslategrey;
+    
+}
+
+
+.btn-add-task{
+    background-color: rgb(232, 232, 68);
+    
+}
